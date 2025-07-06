@@ -23,7 +23,7 @@ Full Stack Developer specialized in backend, with experience in building scalabl
 
 - 🤝 I’m looking for help with **improving my backend skills using .NET and C#, and contributing to meaningful projects — not just open source, but those that create real-world impact.**
 
-- 💬 Ask me about **NestJS, .NET with C#, PostgreSQL, REST APIs, or software architecture best practices.**
+- 💬 Ask me about **NestJS, React, PostgreSQL, REST APIs, or software architecture best practices.**
 
 - 📫 How to reach me: **steve.cardm@gmail.com**
 
@@ -121,5 +121,11 @@ Full Stack Developer specialized in backend, with experience in building scalabl
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevecardonam&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<h3 align="center">📈 Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stevecardonam&theme=github-compact&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff" alt="Activity Graph" />
 </p>
 
