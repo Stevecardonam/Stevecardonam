@@ -27,7 +27,7 @@ Full Stack Developer specialized in backend, with experience in building scalabl
 
 - 📫 How to reach me: **steve.cardm@gmail.com**
 
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/steven-cardona-162014183/)
+- 📄 Know about my experiences: [Portfolio](https://steven-cardona.vercel.app/) and [LinkedIn](https://www.linkedin.com/in/steven-cardona-162014183/)
 
 - ⚡ Fun fact: **I used to work as a clinical psychologist — now I build software to make people's lives a little easier.**
 
