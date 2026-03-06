@@ -109,13 +109,9 @@ Full Stack Developer specialized in backend, with experience in building scalabl
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevecardonam&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff" alt="Top Langs" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevecardonam&show_icons=true&locale=en&theme=dark&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" />
-</p>
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevecardonam&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
