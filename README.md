@@ -105,19 +105,23 @@ Experienced in collaborating with cross-functional teams and translating require
 
 ---
 
+
 <h3 align="center">📊 GitHub Stats</h3>
 
-
-
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevecardonam&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=stevecardonam&theme=dark&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak"
+  />
 </p>
 
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stevecardonam&theme=github-compact&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff" alt="Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=stevecardonam&theme=github-compact&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
+
 
