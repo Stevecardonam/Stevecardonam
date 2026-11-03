@@ -31,18 +31,6 @@ Experienced in collaborating with cross-functional teams and translating require
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/steven-cardona-162014183/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/steve.cardm" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="instagram" height="30" width="40" /></a>
-</p>
-
----
-
 <h3 align="center">💻 Languages and Tools:</h3>
 
 <p align="center">
@@ -104,24 +92,5 @@ Experienced in collaborating with cross-functional teams and translating require
 </p>
 
 ---
-
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=stevecardonam&theme=dark&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-    alt="GitHub Streak"
-  />
-</p>
-
-<h3 align="center">📈 Contribution Graph</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=stevecardonam&theme=github-compact&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
-</p>
 
 
