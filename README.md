@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Steven Cardona</h1>
 <h3 align="center">
-Full Stack Developer specialized in backend, with experience in building scalable web applications using technologies such as Node.js, NestJS, Express.js, and databases like PostgreSQL and MongoDB. I completed intensive software development training through the Henry bootcamp, where I worked on real-world projects applying agile methodologies. I have collaborated on both individual and team-based projects, delivering efficient and maintainable solutions. I have strong knowledge of RESTful API design, data structures, version control with Git, and clean architecture principles. I stand out for my adaptability, problem-solving skills, and ability to work collaboratively in dynamic environments.
+Full Stack Developer specialized in Backend Development, with experience designing, developing, and maintaining web applications and RESTful APIs using technologies such as Node.js, NestJS, Express.js, TypeScript, and JavaScript. Skilled in relational and non-relational databases, including PostgreSQL and MongoDB, with a strong understanding of software architecture, data modeling, and backend development best practices.
+
+Experienced in collaborating with cross-functional teams and translating requirements into reliable, maintainable, and efficient software solutions. Passionate about continuous learning, problem-solving, and building technology that addresses real-world needs.
 </h3>
 
 <br>
