@@ -17,21 +17,17 @@ Experienced in collaborating with cross-functional teams and translating require
 
 ---
 
-- 🔭 I’m currently working **as a freelance developer, but I’m open to new job opportunities.**
+- 🌱 I’m passionate about continuous learning, software engineering best practices, and exploring new technologies to build better solutions.**
 
-- 🌱 I’m currently learning **Python to expand my backend and scripting skills.**
+- 👯 I’m looking to collaborate on challenging projects that solve real-world problems and create meaningful impact.**
 
-- 👯 I’m looking to collaborate on **meaningful projects that solve real-world problems.**
+- 🤝 I’m interested in collaborating with developers and teams, sharing knowledge, tackling technical challenges, and building scalable and maintainable software solutions.**
 
-- 🤝 I’m looking for help with **improving my backend skills using .NET and C#, and contributing to meaningful projects — not just open source, but those that create real-world impact.**
-
-- 💬 Ask me about **NestJS, React, PostgreSQL, REST APIs, or software architecture best practices.**
+- 💬 Ask me about Node.js, NestJS, Express.js, TypeScript, React, PostgreSQL, MongoDB, RESTful APIs, and software architecture.**
 
 - 📫 How to reach me: **steve.cardm@gmail.com**
 
-- 📄 Know about my experiences: [Portfolio](https://steven-cardona.vercel.app/) and [LinkedIn](https://www.linkedin.com/in/steven-cardona-162014183/)
-
-- ⚡ Fun fact: **I used to work as a clinical psychologist — now I build software to make people's lives a little easier.**
+- ⚡ Fun fact: I’m a clinical psychologist turned software developer, combining analytical thinking, empathy, and technology to build solutions that make people's lives easier.**
 
 ---
 
